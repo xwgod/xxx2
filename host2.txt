@@ -1,7 +1,9 @@
 @cilibo
 ::1     localhost
 ::1     localhost ip6-localhost ip6-loopback
-127.0.0.1 5ip9.com
+127.0.0.1 55336.5ip9.com
 127.0.0.1 ngcztea.com
-127.0.0.1 ynwqls.com
-127.0.0.1 sxxjdz.com
+127.0.0.1 img.ynwqls.com
+127.0.0.1 imgcdn.sxxjdz.com
+127.0.0.1 www.strjz.com/
+127.0.0.1 tt8965125.com/

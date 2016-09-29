@@ -7,4 +7,4 @@
 127.0.0.1 www.strjz.com/
 127.0.0.1 tt8965125.com/
 127.0.0.1 zsjplay.vvvvv-baidu.com
-204.74.99.100 pronhub.com
+31.192.120.36 pronhub.com

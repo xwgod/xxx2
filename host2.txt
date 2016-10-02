@@ -6,15 +6,3 @@
 127.0.0.1 imgcdn.sxxjdz.com
 127.0.0.1 www.strjz.com/
 127.0.0.1 tt8965125.com/
-104.20.83.194 apkpure.com
-104.20.83.194 m.apkpure.com
-104.20.83.194 a.apkpure.com
-104.20.83.194 static.apkpure.com
-104.20.83.194 translate.apkpure.com
-104.20.83.194 download.apkpure.com
-31.192.120.36 pornhub.com
-31.192.120.36 m.pornhub.com
-31.192.120.36 www.pornhub.com
-31.192.120.36 static.pornhub.com
-31.192.120.36 translate.pornhub.com
-31.192.120.36 download.pornhub.com
